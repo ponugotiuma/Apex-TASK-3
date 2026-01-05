@@ -1,9 +1,11 @@
 **🚀 Full Stack Development – Task 3**
 
 **📌 Project Title**
+
 Student Registration & Login System using PHP and MySQL
 
 **📖 Project Description**
+
 It demonstrates the integration of frontend forms with a PHP backend and a MySQL database, enabling user registration and login functionality.
 The application allows users to register with their details and securely log in using stored credentials.
 
@@ -26,5 +28,5 @@ task-3/
 -->style.css          # Styling for forms
 -->README.md          # Project documentation
 
-✅ ** Task-3 Completed Successfully**
+**✅ Task-3 Completed Successfully**
 
